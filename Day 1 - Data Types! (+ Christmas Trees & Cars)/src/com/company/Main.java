@@ -1,7 +1,5 @@
 package com.company;
 
-import javax.swing.event.MouseInputListener;
-
 public class Main {
 
     public static void main(String[] args) {
